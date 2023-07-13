@@ -1,16 +1,15 @@
-### Hi there 👋
+Some girl on the internet. Mostly known for doing small random projects.
 
-<!--
-**femou1/femou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Coding stuff I did
+- Working on a [Xeus fork](https://github.com/femou1/xeus) without any Pinewood Builders stuff connected to it.
+- Previously worked on making a Discord moderation bot, which kinda horribly failed
+- Sometimes work @ [Lockpick Interactive](https://github.com/LockpickInteractive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me 
+- Studying in IT
+- I live in Canada
+- Trans rights.
+- Currently works in administation @ Sobeys
+
+For any inquiries, send an email at thepeacefullnoob@gmail.com
