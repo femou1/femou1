@@ -1,16 +1,14 @@
-## Hi there 👋
+Some girl on the internet. Mostly known for doing small random projects.
 
-<!--
-**femou1/femou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Coding stuff I did:
+- Developed [Milobot](https://github.com/qfoxb/mhx-bot) alongside [qfoxb](https://github.com/qfoxb) for the Milohax Discord server.
+- Sometimes work @ [Lockpick Interactive](https://github.com/LockpickInteractive) as QA.
+- Developed the [pb-handbooks](https://github.com/femou1/pb-handbooks) repo that logs updates for [Pinewood Builders](https://www.roblox.com/groups/159511/) subgroup handbooks and the game rules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me:
+- Studying in IT
+- I live in Canada
+- Trans rights
+
+For any inquiries, send an email at contact@femou.dev
